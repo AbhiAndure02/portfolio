@@ -31,11 +31,6 @@ const Footer =() =>{
                     <a href="https://x.com/aa_abhiandure2?t=3EuaXRc7cvLR0y0kdZg7TQ&s=09"><FaTwitter /></a>
                     <a href="https://www.instagram.com/i__am__abhi__/"><FaInstagram /></a>
                 </div>
-                <div className="mb-0 px-2 flex justify-end">
-                    <p className="text-[10px] mb-0">Developer <br></br>Abhishek Andure <br></br> email : abhiaandure123@gmai.com </p>
-
-                   
-                </div>
         </div>
     </footer>
   )
