@@ -33,7 +33,7 @@ const Banner=()=> {
                     <a href="https://x.com/aa_abhiandure2?t=3EuaXRc7cvLR0y0kdZg7TQ&s=09" className="text-fuchsia-700 hover:text-fuchsia-500 rounded-full glow p-2  ">
                         <FiTwitter className="text-[28px]"/>
                     </a>
-                    <a href="https://www.instagram.com/i__am__abhi__/" className="text-fuchsia-700 hover:text-fuchsia-500 rounded-full glow p-2  ">
+                    <a href="https://www.instagram.com/abhishek.andure.02/" className="text-fuchsia-700 hover:text-fuchsia-500 rounded-full glow p-2  ">
                         <FaInstagram className="text-[28px]"/>
                     </a>
                 </div>
